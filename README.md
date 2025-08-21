@@ -100,7 +100,9 @@ MOV [2006H], AX
 ret
 ```
 ## Output  
-![Uploading Screenshot 2025-08-21 140148.png…]()
+<img width="1919" height="1199" alt="Screenshot 2025-08-21 140148" src="https://github.com/user-attachments/assets/fdac39e5-8288-40be-bd04-aa6e4a1a8c64" />
+
+
 
 ## Result :
  
