@@ -102,9 +102,39 @@ ret
 ## Output  
 <img width="1919" height="1199" alt="Screenshot 2025-08-21 140148" src="https://github.com/user-attachments/assets/fdac39e5-8288-40be-bd04-aa6e4a1a8c64" />
 
+## Program for logical operations
+```
+org 100h  
+
+MOV AX, 4326H
+MOV BX, 2234H
+and AX, BX  
+MOV [2000H], AX
+
+MOV AX, 4326H
+MOV BX, 2234H
+or AX, BX
+MOV [2002H], AX
+
+
+MOV AX, 4326H
+MOV BX, 2234H
+xor AX, BX
+MOV [2004H], AX
+
+MOV AX, 4321H
+not AX
+MOV [2006H], AX
+
+ret
+```
+# Output
+<img width="1918" height="1199" alt="Screenshot 2025-08-21 141555" src="https://github.com/user-attachments/assets/8b211ade-1ac5-419d-a772-169285257367" />
 
 
 ## Result :
+The execution ALP on fundamental arithmetic and logical operations is successfully completed
+ 
  
 
 
