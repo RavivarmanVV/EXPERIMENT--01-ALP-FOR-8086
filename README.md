@@ -1,7 +1,7 @@
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/ce766295-abb0-4727-b3fe-24f1f111b796" /># EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name : RavivarmanVV
+Roll no : 212224240133
+Date of experiment : 18-09-2025
 
 
 
